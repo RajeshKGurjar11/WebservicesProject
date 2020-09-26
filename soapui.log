@@ -1,0 +1,32 @@
+2020-09-24 23:07:52,530 WARN  [SoapUI] Missing folder [C:\Users\RAJESHGURJAR\Desktop\Web Service Project\my-app\ext] for external libraries
+2020-09-24 23:07:52,889 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\RAJESHGURJAR\soapui-settings.xml]
+2020-09-24 23:07:54,063 INFO  [WsdlProject] Loaded project from [file:/C:/Users/RAJESHGURJAR/Desktop/Web%20Service%20Project/my-app/Soap-Project-TC01-soapui-project.xml]
+2020-09-24 23:07:54,448 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Soap Project TC01]
+2020-09-24 23:07:54,450 INFO  [SoapUITestCaseRunner] Running Project [Soap Project TC01], runType = SEQUENTIAL
+2020-09-24 23:07:54,476 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property Transfer Test Case]
+2020-09-24 23:07:54,504 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-24 23:07:54,561 INFO  [SoapUITestCaseRunner] running step [Property Transfer for New Customer]
+2020-09-24 23:07:54,948 INFO  [SoapUITestCaseRunner] running step [Create New Customer]
+2020-09-24 23:07:56,163 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:07:56,164 INFO  [SoapUITestCaseRunner] running step [Property Transfer for List of all Customer]
+2020-09-24 23:07:56,192 INFO  [SoapUITestCaseRunner] running step [Get list of all customers]
+2020-09-24 23:08:00,413 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:00,414 INFO  [SoapUITestCaseRunner] running step [Property Transfer by Customer ID]
+2020-09-24 23:08:00,475 INFO  [SoapUITestCaseRunner] running step [Get Customer by id]
+2020-09-24 23:08:00,960 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:00,962 INFO  [SoapUITestCaseRunner] running step [Property Transfer for delete customer by Id]
+2020-09-24 23:08:00,982 INFO  [SoapUITestCaseRunner] running step [Delete Customer by id]
+2020-09-24 23:08:02,964 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:02,965 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property Transfer Test Case], time taken: 8420ms, status: FINISHED
+2020-09-24 23:08:02,972 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property Expansion Test Case]
+2020-09-24 23:08:02,974 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-24 23:08:02,977 INFO  [SoapUITestCaseRunner] running step [Create New Customer]
+2020-09-24 23:08:03,456 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:03,457 INFO  [SoapUITestCaseRunner] running step [Get List of all customer]
+2020-09-24 23:08:07,581 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:07,581 INFO  [SoapUITestCaseRunner] running step [Get Customer by id]
+2020-09-24 23:08:09,524 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:09,525 INFO  [SoapUITestCaseRunner] running step [Delete Customer by id]
+2020-09-24 23:08:10,592 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-24 23:08:10,593 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property Expansion Test Case], time taken: 7605ms, status: FINISHED
+2020-09-24 23:08:10,596 INFO  [SoapUITestCaseRunner] Project [Soap Project TC01] finished with status [FINISHED] in 16138ms
